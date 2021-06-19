@@ -1,0 +1,126 @@
+#principal {
+    border-radius: 100px;
+    border-width: 3px;
+    border-style: inset;
+    border-color: black;
+    height: 200px;
+    width: 200px;
+}
+
+iframe {
+    height: 700px;
+    width: 1500px;
+}
+
+body {
+    background: linear-gradient(maroon 20%, purple 80%);
+}
+
+#contact {
+    background: linear-gradient(cyan 20%, navy 80%);
+}
+
+h5 {
+    color: azure;
+}
+
+h3 {
+    color: yellow;
+    background-color: darkolivegreen;
+}
+
+h4 {
+    color: blueviolet;
+    background-color: rosybrown;
+}
+
+marquee {
+    color: navajowhite;
+    background-color: orangered;
+}
+
+.campuslife_mainDiv {
+    border: 1px solid orangered;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campuslife_mainDiv img {
+    width: 50%;
+}
+
+.campuslife_mainDiv hr {
+    width: 230px;
+}
+
+.campuslife_mainDiv h5,
+.campuslife_mainDiv p {
+    margin-left: 20px;
+}
+
+.awards {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.awards i {
+    float: right;
+}
+
+.awards span {
+    color: darkorange;
+}
+
+p {
+    font-size: 25px;
+}
+
+h5 {
+    font-size: 30px;
+}
+
+.whats new_li {
+    margin-top: 13px;
+}
+
+.whats new_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.whats new_li img {
+    border-radius: 25px;
+}
+
+.whats new_li p {
+    margin-top: 10px;
+}
+
+.alumni {
+    cursor: pointer;
+}
+
+.alumni hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
